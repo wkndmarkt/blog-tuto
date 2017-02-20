@@ -11,10 +11,13 @@ header {
 
 header h1 { font-size: 60px; }
 a:hover { text-decoration: none; }
+#plus {
+    font-size: 30px;
+}
 
 header a { color: white; }
 
-.post {
+.post, #form {
     margin-top: 40px;
     padding: 10px 40px;
     background-color: #fafafa;
