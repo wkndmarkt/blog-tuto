@@ -1,0 +1,25 @@
+body {
+    font-family: 'Exo 2', sans-serif;
+}
+
+header {
+    background-color: #ff9400;
+    padding: 20px;
+    padding-left: 40px;
+    color: white;
+}
+
+header h1 { font-size: 60px; }
+a:hover { text-decoration: none; }
+
+header a { color: white; }
+
+.post {
+    margin-top: 40px;
+    padding: 10px 40px;
+    background-color: #fafafa;
+}
+
+.post a {
+    color: #FCA205;
+}
